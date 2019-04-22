@@ -9,7 +9,7 @@ def lista_valores(y):
     x = []
     #y = int(input("Insira o tamanho da lista: "))
     for n in range(y):
-        x.append(int(input("Informe o núemro: ")))
+        x.append(int(input("Informe o número: ")))
 
     return (x)
 
